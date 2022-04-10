@@ -1,0 +1,286 @@
+/*my rulz*/
+body
+{
+   background-image: url(../Images/0.jpg);
+   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+
+.container
+{
+    width: 1170px;
+    margin: auto
+}
+
+
+/*Start header */
+
+header .background
+{
+    background-image: url(../Images/1.png);
+    background-size: cover;
+    height: 720px;
+}
+
+header nav
+{
+   background-image: url(../Images/0.jpg);
+   height: 100px
+}
+
+header nav .container img
+{
+    float: left;
+    width: 150px;
+    height: 100px
+}
+
+header nav .container ul
+{
+    float: right;
+    list-style: none
+}
+
+header nav .container ul li
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px
+}
+
+header nav .container ul li a
+{
+    text-decoration: none;
+    color: #db1616;
+    font-size: 20px
+}
+
+header nav .container ul li a:hover
+{
+    color: #000;
+    text-decoration: underline
+}
+
+
+header .container h1
+{
+    margin: auto;
+    padding-top: 300px;
+    padding-left: 650px;
+    color: #fff
+}
+/* End header */
+
+/*Start 1st s */
+
+.first
+{
+   height: 500px;
+   margin-top: 80px
+}
+
+.first .container h2
+{
+    text-align: center;
+    text-decoration: underline;
+    color: #e90000;
+    margin: 80px;
+}
+
+.first .container div
+{
+    float: left;
+    width: 23%;
+    height: 300px;
+    margin: 1%;
+    text-align: center
+}
+
+.first .container div i
+{
+    background-color: #e90000;
+    color: #fff;
+    border: 10px solid #ababab;
+    border-radius: 50%;
+    padding: 30px
+}
+
+.first .container div h2
+{
+    text-decoration: none;
+    color: #000;
+    margin: 20px
+}
+
+.first .container div p
+{
+    color: #747474
+}
+/*End 1st s */
+
+/*Start 2nd s */
+
+.second
+{
+   height: 800px
+}
+
+.second .container h2
+{
+    text-align: center;
+    text-decoration: underline;
+    color: #e90000;
+    margin: 80px
+}
+
+.second .container div
+{
+    float: left;
+    width: 48%;
+    height: 400px;
+    margin: .5%;
+}
+
+.second .container .outside
+{
+    border: 2px solid #000;
+    height: 280px
+}
+.second .container .outside div img
+{
+    width: 250px;
+    height: 270px
+}
+
+.second .container .outside div button
+{
+   background-color: #e90000;
+   color: #fff;
+   border: 2px solid #e90000;
+   cursor: pointer;
+   width: 80px
+}
+
+.second .container .outside div button:hover
+{
+    background-color: #ff0;
+    color: #000
+}
+
+.second .container .outside div p
+{
+  color: #747474  
+}
+
+/*End 2nd s */
+
+/*Start 3rd s*/
+
+.third
+{
+   height: 200px
+}
+
+.third .container h2
+{
+    text-align: center;
+    text-decoration: underline;
+    color: #e90000;
+    margin: 80px
+}
+
+.third .container div
+{
+    float: left;
+    width: 16.6666%;
+    height: 300px
+}
+
+.third .container div img
+{
+    width: 80%;
+    height: 80%;
+    border: 6px solid #747474;
+    border-radius: 50%
+}
+    
+
+/*End 3rd s */
+
+/*Start 4th s*/
+
+.fourth
+{
+   background-color: #fff;
+   height: 340px;
+   margin-top: 400px;
+   border-top: 2px solid #000
+}
+
+.fourth .container div
+{
+    text-align: left;
+    float: left;
+    width: 23%;
+    margin: 1%
+}
+
+.fourth .container div p
+{
+   color: #747474 
+}
+
+.fourth .container div i
+{
+   color: #747474;
+   margin: 8px
+}
+
+.fourth .container div form input
+{
+   display: block;
+   margin-bottom: 20px;
+   height: 30px;
+   width: 250px
+}
+
+.fourth .container div form .button
+{
+   height: 40px;
+   width: 110px;
+   background-color: #e90000;
+   color: #fff;
+   border: 2px solid #e90000;
+   cursor: pointer;
+}
+
+.fourth .container div form .button:hover
+{
+   background-color: #ff0;
+   color: #000
+}
+/*End 4th s*/
+
+/*Start footer */
+
+footer
+{
+   background-color: #000;
+   color: #fff;
+   height: 60px
+}
+
+footer .container p
+{
+   float: right
+}
+
+footer .container a
+{
+   float: left;
+   color: #fff;
+   text-decoration: none;
+   padding-top: 20px;
+   padding-right: 20px
+}
+/*End footer */
+
